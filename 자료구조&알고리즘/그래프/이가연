@@ -1,1 +1,13 @@
-
+# Stack / Queue
+# 그래프
+이가연
+```
+public interface MyStack<T> {
+    boolean isEmpty();
+    boolean isFull();
+    void push(T element);
+    T peek();
+    T pop();
+    void clear();
+}
+```
