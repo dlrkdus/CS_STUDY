@@ -22,3 +22,6 @@
 
 * [x] [동적계획](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%26%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95(DP))
 
+### 자료구조&알고리즘 예상질문
+* [예상질문](https://github.com/dlrkdus/CS_STUDY/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%26%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%98%88%EC%83%81%EC%A7%88%EB%AC%B8.md)
+
