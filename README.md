@@ -62,3 +62,5 @@
 
 * [x] [멀티프로세스, 스레드와 멀티스레딩](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%A9%80%ED%8B%B0%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2C%20%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80%20%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%94%A9)
 
+### 운영체제 예상질문
+* [예상질문](https://github.com/dlrkdus/CS_STUDY/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%98%88%EC%83%81%EC%A7%88%EB%AC%B8.md)
