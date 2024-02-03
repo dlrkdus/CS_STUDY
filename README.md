@@ -26,5 +26,5 @@
 * [예상질문](https://github.com/dlrkdus/CS_STUDY/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%26%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%98%88%EC%83%81%EC%A7%88%EB%AC%B8.md)
 
 ## 운영체
-* [x] [운영체제와 컴퓨](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%26%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%8A%A4%ED%83%9D%EA%B3%BC%ED%81%90)
+* [x] [운영체제와 컴퓨터](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%26%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%8A%A4%ED%83%9D%EA%B3%BC%ED%81%90)
 
