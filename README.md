@@ -96,3 +96,5 @@
 
 * [x] [Spring Security 개념, 인증 처리 과정, currentUser 정보](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81/Spring%20Security%20%EA%B0%9C%EB%85%90%2C%20%EC%9D%B8%EC%A6%9D%20%EC%B2%98%EB%A6%AC%20%EA%B3%BC%EC%A0%95%2C%20currentUser%20%EC%A0%95%EB%B3%B4) 
 
+### 스프링링 예상질문
+* [x] [예상질문](https://github.com/dlrkdus/CS_STUDY/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81/%EC%98%88%EC%83%81%EC%A7%88%EB%AC%B8.md)
