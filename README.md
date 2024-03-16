@@ -25,6 +25,8 @@
 ### 자료구조&알고리즘 예상질문
 * [예상질문](https://github.com/dlrkdus/CS_STUDY/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%26%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%98%88%EC%83%81%EC%A7%88%EB%AC%B8.md)
 
+<br/>
+
 ## 운영체제
 * [x] [운영체제와 컴퓨터](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%99%80%20%EC%BB%B4%ED%93%A8%ED%84%B0)
 
@@ -64,6 +66,62 @@
 
 ### 운영체제 예상질문
 * [x] [예상질문](https://github.com/dlrkdus/CS_STUDY/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%98%88%EC%83%81%EC%A7%88%EB%AC%B8.md)
+
+<br/>
+
+## 자바
+
+* [x] [Gradle](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Gradle)
+
+* [x] [객체지향(상속, 다형성, 캡슐화 등)](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5(%EC%83%81%EC%86%8D%2C%20%EB%8B%A4%ED%98%95%EC%84%B1%2C%20%EC%BA%A1%EC%8A%90%ED%99%94%20%EB%93%B1))
+
+* [x] [JVM 메모리 구조](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/JVM%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B5%AC%EC%A1%B0)
+
+* [x] 컴파일 과정
+    * [x] [Java 컴파일 과정](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Java%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95)
+    * [x] [Java 클래스 로더](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Java%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EB%A1%9C%EB%8D%94)
+    * [x] [Java 실행 엔진](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Java%20%EC%8B%A4%ED%96%89%20%EC%97%94%EC%A7%84)
+
+* [x] [다양한 GC(parellel, g1gc 등)](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/%EB%8B%A4%EC%96%91%ED%95%9C%20GC(parellel%2C%20g1gc%20%EB%93%B1))
+
+* [x] [JRE, JDK, JVM의 구분](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/JRE%2C%20JDK%2C%20JVM%EC%9D%98%20%EA%B5%AC%EB%B6%84)
+
+* [x] [자바 메모리관리(Xms, Xmx)](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/%EC%9E%90%EB%B0%94%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B4%80%EB%A6%AC(Xms%2C%20Xmx))
+
+* [x] [Call by Value vs Call by Reference](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Call%20by%20Value%20vs%20Call%20by%20Reference)
+
+* [x] [Mutable, Immutable](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Mutable%2C%20Immutable)
+
+* [x] [Auto Boxing & UnBoxing](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Auto%20Boxing%20%26%20UnBoxing)
+
+* [x] [Error vs Exception 1](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Error%20vs%20Exception%201)
+
+* [x] [Error vs Exception 2](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Error%20vs%20Exception%202)
+
+* [x] [비동기처리 문법 비교](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/%EB%B9%84%EB%8F%99%EA%B8%B0%EC%B2%98%EB%A6%AC%20%EB%AC%B8%EB%B2%95%20%EB%B9%84%EA%B5%90)
+
+* [x] [Java 8의 특징](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Java%208%EC%9D%98%20%ED%8A%B9%EC%A7%95)
+
+* [x] [Lambda(+ Functional Interface)](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Lambda(%2B%20Functional%20Interface))
+
+* [x] [Stream API](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Stream%20API)
+
+* [x] [Default Method, 추상 클래스와 인터페이스](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Default%20Method%2C%20%EC%B6%94%EC%83%81%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4)
+
+* [x] [Generic](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Generic)
+
+* [x] [Reflection(Annotation)](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Reflection(Annotation))
+
+* [x] [Collection Framework(List, Map, Set 등)](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Collection%20Framework(List%2C%20Map%2C%20Set%20%EB%93%B1))
+
+* [x] [HashMap](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/HashMap)
+
+* [x] [CountDownLatch & CyclicBarrier](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/CountDownLatch%20%26%20CyclicBarrier)
+
+### 자바 예상질문
+* [x] [예상질문]()
+
+<br/>
 
 ## 스프링
 * [x] [웹 애플리케이션 이해](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81/%EC%9B%B9%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%9D%B4%ED%95%B4)
