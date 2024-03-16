@@ -119,7 +119,7 @@
 * [x] [CountDownLatch & CyclicBarrier](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/CountDownLatch%20%26%20CyclicBarrier)
 
 ### 자바 예상질문
-* [x] [예상질문]()
+* [x] [예상질문](https://github.com/dlrkdus/CS_STUDY/blob/main/%EC%9E%90%EB%B0%94/%EC%98%88%EC%83%81%EC%A7%88%EB%AC%B8.md)
 
 <br/>
 
