@@ -98,13 +98,13 @@
 
 * [x] [Error vs Exception 2](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Error%20vs%20Exception%202)
 
-* [x] [비동기처리 문법 비교](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/%EB%B9%84%EB%8F%99%EA%B8%B0%EC%B2%98%EB%A6%AC%20%EB%AC%B8%EB%B2%95%20%EB%B9%84%EA%B5%90)
+* [x] [비동기처리 문법 비교](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/%EB%B9%84%EB%8F%99%EA%B8%B0%EC%B2%98%EB%A6%AC%20%EB%AC%B8%EB%B2%95%20%EB%B9%84%EA%B5%90) [⭐]
 
 * [x] [Java 8의 특징](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Java%208%EC%9D%98%20%ED%8A%B9%EC%A7%95)
 
 * [x] [Lambda(+ Functional Interface)](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Lambda(%2B%20Functional%20Interface))
 
-* [x] [Stream API](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Stream%20API)
+* [x] [Stream API](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Stream%20API) [⭐]
 
 * [x] [Default Method, 추상 클래스와 인터페이스](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/Default%20Method%2C%20%EC%B6%94%EC%83%81%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4)
 
@@ -116,10 +116,12 @@
 
 * [x] [HashMap](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/HashMap)
 
-* [x] [CountDownLatch & CyclicBarrier](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/CountDownLatch%20%26%20CyclicBarrier)
+* [x] [CountDownLatch & CyclicBarrier](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%9E%90%EB%B0%94/CountDownLatch%20%26%20CyclicBarrier) [⭐]
 
 ### 자바 예상질문
 * [x] [예상질문](https://github.com/dlrkdus/CS_STUDY/blob/main/%EC%9E%90%EB%B0%94/%EC%98%88%EC%83%81%EC%A7%88%EB%AC%B8.md)
+
++) [⭐]는 신입수준의 챕터는 아니니 자유롭게 공부하시기 바랍니다.
 
 <br/>
 
