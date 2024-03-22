@@ -1,0 +1,47 @@
+Gradle
+1.	Gradle
+-	빌드 도구이자 프레임워크이며, 빌드를 하기 위해 필요한 설정들을 스크립트 언어로 정의
+-	 build.gradle은 빌드 스크립트의 핵심이 되는 파일인데, 빌드를 하게 된다면 필요하게 될 Task(작업), Dependency(의존성), Plugin(플러그인) 등을 선언
+2.	dependency(의존성)
+-	순수 내장 라이브러리만으로는 개발하기 힘들 거라고 생각이 드는데, 그렇기 때문에 다른 라이브러리에 의존하게 되는 상황이 생기게 되고, Gradle 기반의 프로젝트라면 아래 블록을 사용하여 의존성을 관리할 수 있게 됨
+dependencies{
+    ...
+}
+3.	Implementation
+-	컴파일 단계의 의존성을 선언하는데 사용
+-	이 의존성은 컴파일 시점에 필요하지만, 런타임에는 필요하지 않음
+-	다른 모듈과의 인터페이스를 정의하는 라이브러리의 경우 주로 implementation을 사용한다.
+implementation 'org.springframework.boot:spring-boot-starter-web'
+4.	Gradle과 Maven 차이
+-	Gradle은 작업 의존성 그래프를 기반으로 하는 반면, Maven은 고정적이고 선형적인 단계의 모델을 기반으로 함
+-	성능 측면에서는 둘 다 다중 모듈 빌드를 병렬로 실행할 수 있지만, Gradle은 어떤 task가 업데이트 되었고 안 되었는지를 체크하기 때문에 incremental build를 허용한다. 이미 업데이트된 테스크에 대해서는 작업이 실행되지 않으므로 빌드 시간이 훨씬 단축됨
+-	빌드 설정 규모가 점점 커지면 커질수록, 빌드시간의 차이도 Maven과 비교하여 꽤 격차가 벌어짐
+5.	Gradle 프로젝트의 구성
+	 
+-	build.gradle 
+Gradle 기본 빌드 설정용 스크립트 파일
+프로젝트의 빌드 처리 및 의존성에 대한 설정이 작성됨
+-	gradle 디렉토리
+Gradle 환경을 래핑한 wrapper 파일들이 저장됨
+-	gradle/wrapper/gradle-wrapper.properties 
+프로젝트를 빌드에 사용할 gradle 버전을 포함하여, gradle 실행에 필요한 설정 정보가 기록됨, 다른 버전의 gradle을 사용하여 프로젝트를 빌드하고 싶다면 이 파일의 내용을 수정하면 됨
+-	gradlew 
+macOS 및 Linux에서 실행하기 위한 gradle 구현체
+-	gradlew.bat
+Windows용 gradle 구현체 
+-	settings.gradle
+프로젝트 설정 정보를 담은 파일, 프로젝트 명 및 서브 프로젝트 정보 등이 모두 기록됨
+-	src 디렉토리
+Gradle 프로젝트에서 사용하는 소스 코드나 리소스, 테스트 코드 등의 파일이 저장됨 main과 test라는 2개의 폴더가 포함
+-	src/main 디렉토리
+애플리케이션 구현에 필요한 소스 코드를 저장하는 디렉토리
+언어별로 하위 디렉토리가 구분되며, 기본적으로 App.java 파일이 포함
+-	src/test 디렉토리
+애플리케이션 테스트에 필요한 단위 테스트 파일을 모아두는 디렉토리, 여기에 작성된 내용은 빌드시에 포함되지 않지만, CI/CD 파이프라인에서는 중요한 역할을 함
+
+
+
+참고자료:
+https://velog.io/@rockstar/Gradle-Gradle-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EC%9A%94%EC%95%BD
+https://jisooo.tistory.com/entry/Spring-%EB%B9%8C%EB%93%9C-%EA%B4%80%EB%A6%AC-%EB%8F%84%EA%B5%AC-Maven%EA%B3%BC-Gradle-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0
+https://blog.naver.com/sqlpro/222666588911
