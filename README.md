@@ -121,13 +121,12 @@
 ### 자바 예상질문
 * [x] [예상질문](https://github.com/dlrkdus/CS_STUDY/blob/main/%EC%9E%90%EB%B0%94/%EC%98%88%EC%83%81%EC%A7%88%EB%AC%B8.md)
 
-+) [⭐]는 신입수준의 챕터는 아니니 자유롭게 공부하시기 바랍니다.
 
 <br/>
 
 ## 네트워크 
 
-* [x] [웹 브라우저가 메시지를 만든다 - 웹 브라우저의 내부 탐험]()
+* [x] [웹 브라우저가 메시지를 만든다 - 웹 브라우저의 내부 탐험](https://github.com/dlrkdus/CS_STUDY/tree/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/1%EC%9E%A5%20%EC%9B%B9%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EA%B0%80%20%EB%A9%94%EC%8B%9C%EC%A7%80%EB%A5%BC%20%EB%A7%8C%EB%93%A0%EB%8B%A4%20-%20%EC%9B%B9%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98%20%EB%82%B4%EB%B6%80%20%ED%83%90%ED%97%98)
 
 ## 스프링
 * [x] [웹 애플리케이션 이해](https://github.com/dlrkdus/CS_STUDY/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81/%EC%9B%B9%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%9D%B4%ED%95%B4)
