@@ -129,3 +129,38 @@
 * [x] [웹 브라우저가 메시지를 만든다 - 웹 브라우저의 내부 탐험](https://github.com/dlrkdus/CS_STUDY/tree/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/1%EC%9E%A5%20%EC%9B%B9%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EA%B0%80%20%EB%A9%94%EC%8B%9C%EC%A7%80%EB%A5%BC%20%EB%A7%8C%EB%93%A0%EB%8B%A4%20-%20%EC%9B%B9%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98%20%EB%82%B4%EB%B6%80%20%ED%83%90%ED%97%98)
 
 * [x] [TCP/IP의 데이터를 전기신호로 만들어 보낸다 - 프로토콜 스택과 LAN 어댑터의 탐험](https://github.com/dlrkdus/CS_STUDY/tree/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/2%EC%9E%A5%20TCP%2CIP%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%A0%84%EA%B8%B0%EC%8B%A0%ED%98%B8%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EB%B3%B4%EB%82%B8%EB%8B%A4%20-%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%20%EC%8A%A4%ED%83%9D%EA%B3%BC%20LAN%20%EC%96%B4%EB%8C%91%ED%84%B0%EC%9D%98%20%ED%83%90%ED%97%98)
+
+## 데이터베이스 
+
+* [x] [엔티티와 정규화](https://github.com/dlrkdus/CS_STUDY/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%97%94%ED%8B%B0%ED%8B%B0%EC%99%80%20%EC%A0%95%EA%B7%9C%ED%99%94.md)
+* [x] 데이터 무결성
+
+* [x] 트랜잭션
+
+* [x] 1. 개념과 ACID 속성
+* [x] 2. concurrency control(Serializability, Recoverable)
+* [x] 3. Isolation level(격리 수준)과 이상 현상
+   
+* [x] RDBMS와 NoSQL
+
+* [x] 인덱스
+
+* [x] 조인
+
+* [x] 저장 프로시저
+
+* [x] Schema
+
+**심화 버전**
+
+* [x] RDB와 NoSQL에서의 클러스터링/레플리케이션 방식
+
+* [x] B-Tree와 B+Tree
+
+* [x] DB Locking
+
+* [x] DB의 Connection Pool
+
+* [x] Trigger
+
+* [x] Redis
