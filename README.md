@@ -139,7 +139,7 @@
 
 * [x] 1. 개념과 ACID 속성
 * [x] 2. concurrency control(Serializability, Recoverable)
-* [x] 3. Isolation level(격리 수준)과 이상 현상
+* [x] [3. Isolation level(격리 수준)과 이상 현상](https://github.com/dlrkdus/CS_STUDY/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/3.%20Isolation%20level(%EA%B2%A9%EB%A6%AC%20%EC%88%98%EC%A4%80)%EA%B3%BC%20%EC%9D%B4%EC%83%81%20%ED%98%84%EC%83%81.md)
    
 * [x] RDBMS와 NoSQL
 
