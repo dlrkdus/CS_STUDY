@@ -127,7 +127,10 @@
 ## AWS
 
 * [x] [EC2](https://github.com/dlrkdus/CS_STUDY/blob/main/AWS/EC2.md)
-* [x] [고가용성 및 확장성](https://github.com/dlrkdus/CS_STUDY/blob/main/AWS/%EA%B3%A0%EA%B0%80%EC%9A%A9%EC%84%B1%20%EB%B0%8F%20%ED%99%95%EC%9E%A5%EC%84%B1.md) 
+   
+* [x] [고가용성 및 확장성](https://github.com/dlrkdus/CS_STUDY/blob/main/AWS/%EA%B3%A0%EA%B0%80%EC%9A%A9%EC%84%B1%20%EB%B0%8F%20%ED%99%95%EC%9E%A5%EC%84%B1.md)
+      
+* [x] [RDS&Aurora](https://github.com/dlrkdus/CS_STUDY/blob/main/AWS/RDS%26Aurora.md)
 
 ## 네트워크 
 
