@@ -167,7 +167,7 @@
 
 * [x] RDB와 NoSQL에서의 클러스터링/레플리케이션 방식
 
-* [x] B-Tree와 B+Tree
+* [x] [B-Tree와 B+Tree](https://github.com/dlrkdus/CS_STUDY/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/B-Tree%20VS%20B%2BTree.md)
 
 * [x] DB Locking
 
