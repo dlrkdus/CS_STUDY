@@ -155,7 +155,7 @@
    
 * [x] RDBMS와 NoSQL
 
-* [x] 인덱스
+* [x] [인덱스](https://github.com/dlrkdus/CS_STUDY/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%9D%B8%EB%8D%B1%EC%8A%A4.md)
 
 * [x] 조인
 
