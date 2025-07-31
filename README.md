@@ -137,6 +137,10 @@
 * [x] [메시지 큐](https://github.com/dlrkdus/CS_STUDY/blob/main/AWS/%EB%A9%94%EC%8B%9C%EC%A7%80%20%ED%81%90.md)
 
 * [x] [컨테이너](https://github.com/dlrkdus/CS_STUDY/blob/main/AWS/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88.md)
+      
+* [x] [DR](https://github.com/dlrkdus/CS_STUDY/blob/main/AWS/DR.md)
+
+* [x] [서버리스](https://github.com/dlrkdus/CS_STUDY/blob/main/AWS/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4.md)
 
 ## 네트워크 
 
